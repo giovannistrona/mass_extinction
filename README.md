@@ -2,7 +2,9 @@
 
 # Data and code associated with the paper "We might not notice a 'mass' extinction" by Giovanni Strona and Corey J.A. Bradshaw
 
-## Repository structure
+
+## Repository structure (note that some folders need to be created and populated with data freely available online, see explanation below).
+## Alternatively, you could download a compressed folder including both the code and all the necessary data from https://doi.org/10.5281/zenodo.19371534
 
 ```
 .
@@ -58,7 +60,7 @@ The complete dataset (including `extinction_timeline.csv` and all input data) is
 
 If you use this code or data, please cite:
 
-> Strona G. and Bradshaw C.J.A. (2026). We might not notice a 'mass' extinction. *[Journal name]*.
+> Strona G. and Bradshaw C.J.A. (2026). We might not notice a 'mass' extinction. (bioRxiv link coming soon).
 
 ## License
 
