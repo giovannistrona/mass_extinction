@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19371503.svg)](https://doi.org/10.5281/zenodo.19371503)
+
 # Data and code associated with the paper "We might not notice a 'mass' extinction" by Giovanni Strona and Corey J.A. Bradshaw
 
 ## Repository structure
